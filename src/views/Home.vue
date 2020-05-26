@@ -34,13 +34,6 @@ export default {
 margin:10vh 5vw;
 }
 
-h1{
-  font-weight:900;
-  font-size:9vw;
-  text-transform: uppercase;
-  text-align:left;
-}
-
 section{
   width:100%;
   max-width:90vw;
@@ -53,17 +46,6 @@ section{
     grid-row-gap:40px;
     align-items:center;
   }
-}
-
-.info{
-  width:24px;
-  height:24px;
-  background-image:url('../assets/info.svg');
-
-  position:fixed;
-  top:20px;
-  right:20px;
-
 }
 
 </style>
