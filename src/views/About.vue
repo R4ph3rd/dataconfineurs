@@ -23,6 +23,13 @@
         </br>
         Les Dataconfineurs c’est avant tout un pacte, une promesse de partager notre point de vue sur le monde. Chaque semaine devait voir son lot de données récoltées, filtrées et interprétées sous le signe d'une thèmatique définie.</p>
     </section>
+
+    <section>
+      <h2>Lecture & usage</h2>
+      <p>Chaque semaine présente sa thématique ainsi que les travaux effectués par chacun d'entre nous accessibles en cliquant sur les point de couleurs rose, noir et rouge ; respectivement Meriem, Elliot et Raphaël.
+      </br> En accédant à la page d'une semaine, il est possible d'avoir une interprétation concise de la thématique de la semaine ainsi que celle donnée à chacune des réalisations par l'un des dataconfineurs ne l'ayant pas produite.
+      </p>
+    </section>
     
     <p class="credits">Travail réalisé dans le cadre d'un projet à <a href="https://www.lecolededesign.com/">L'Ecole de design Nantes Atltantique</a> par <a class="meme" href="http://gharbimeriem.com">Meriem Gharbi</a>, <a class="ellio" href="http://elliotchevalier.com">Elliot Chevalier</a> et <a class="raphael" href="http://raphaelperraud.com">Raphaël Perraud</a>.</p>
     

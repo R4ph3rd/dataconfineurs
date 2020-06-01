@@ -20,7 +20,7 @@
             <div :class="tab == 'theme' ? 'active' : ''" class="theme tab" @click="changeTab('theme')">{{getCurrentWeek.theme}}</div>
             <div v-for="work in getCurrentWeek.works" :class="tab == work.author ? work.author + ' active' : work.author" :key="work.author" class="tab" @click="changeTab(work.author)">{{work.author}}</div>
         </div>
-        <div class="tab_content">
+        <div class="tab_content" @click="openWork()">
             <p>{{explications}}</p>
         </div>
     </section>
@@ -59,6 +59,10 @@ export default {
         changeTab(tab){
             this.tab = tab ;
             console.log(this.tab)
+        },
+        openWork(){
+            let work = this.getCurrentWeek.works.find( work => work.author == this.tab);
+            window.open(work.link, '_blank');
         }
     },
     mounted(){
@@ -126,7 +130,7 @@ h3{
 
     .tab_content{
         width:100%;
-        height:200px;
+        height:130px;
         padding:20px;
         background-color:rgba(128, 117, 105, .2);
         box-shadow:0 2px 8px rgba(0,0,0, .12);
@@ -138,6 +142,8 @@ h3{
             font-weight:400;
             opacity:.9;
         }
+
+        &:hover{cursor: pointer;}
     }
 
     .tabs{

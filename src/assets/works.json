@@ -3,7 +3,7 @@
         {
             "id": "01",
             "theme": "Changement d'habitudes",
-            "exp":"La première Datavizualisation portait sur les changements d'habitudes adoptés pendant le confinement.  Les résultats présentent plusieurs façons d'aborder le sujet. Dans les données représentées on peut voir de la nourriture, le sommeil, les loisirs ou l'exercice physique. Ce qui ressort principalement de cette experimentations c'est que ce nouveau mode de vie à adopté de nombreux changements d'habitudes avec lui. ",
+            "exp":"La première datavisualisation portait sur les changements d'habitudes adoptées pendant le confinement. De grands aux petits bouleversements, chacun a vu son rythme de vie impacté par la crise.",
             "works":[
                 {
                     "author": "meriem",
@@ -25,7 +25,7 @@
         {
             "id": "02",
             "theme": "La posture ",
-            "exp":"La deuxième expérimentation concernait les postures. Les points clés de cette visualisation étaient portés sur le temps par jour ou les postures étaient adoptées et si elles généraient des douleurs. Les façons de représenter étaient interactives avec la possibilité de voir dans  quelles zones on pouvait voir apparaitre des douleurs et si ces zones changeaient en fonction des postures. ",
+            "exp":"Une semaine de postures qui ont révélé l'(in)activité quotidienne que nous avons imposé à nos corps.",
             "works":[
                 {
                     "author": "meriem",
@@ -47,7 +47,7 @@
         {
             "id": "03",
             "theme": "Les sons ambiants",
-            "exp":"En temps de confinement, nous avons tendance a être plus attentif à notre environnement. On devient plus conscient des détails de ce qui nous entoure, on redécouvre nos lieux de vie. Les sons auxquels autrefois on ne prêtait pas attention ont une nouvelle résonance. C'est pourquoi, nous avons choisit d'approfondir le sujet des sons ambiants. Pour ce thème en particulier, nous avons choisi de donné plus qu'une semaine pour collecté les données et les interprétées car le son n'est pas facile a retranscrire en visuel",
+            "exp":"En temps de confinement, nous avons tendance a être plus attentifs à notre environnement. Nous devevnons ainsi plus conscients des détails de ce qui nous entourent, redécouvrant nos lieux de vie. Les sons auxquels autrefois nous ne prêtions pas attention ont maintenant une nouvelle résonance. Pour ce thème en particulier, nous avons dû nous accorder plus d'une semaine pour réaliser nos visualisations sonores.",
             "works":[
                 {
                     "author": "meriem ",
@@ -69,7 +69,7 @@
         {
             "id": "04",
             "theme": "Les interactions humaines",
-            "exp":"La période que nous traversons à bouleverser nos contacts humains, c'est pourquoi nous trouvions que c'était un sujet intéressant à approfondir pour analyser nos changements de comportements et de modes de réflexion. De plus, analysé la façon dont on interagit nous permet de faire une introspection sur nos agissement en société.",
+            "exp":"La liberté de circuler et du contact humain (dans le respect des règles sanitaires) sont de retours dans nos vies. Mais cela a-t-il eu un réel impact sur nos quotidiens ? Les relations humaines que nous avons connues depuis ont-elles subies des altérations ?",
             "works":[
                 {
                     "author": "meriem",
@@ -79,7 +79,7 @@
                 {
                     "author": "elliot",
                     "link": "google.com",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
+                    "exp":"Le cirque d'animaux humains domptés par Elliot. Voici la présentation d'un cercle restreint qui s'execute pour former un ensemble variant selon la présence de chacun des éléments à une heure donnée."
                 },
                 {
                     "author": "raphaël",
