@@ -2,18 +2,18 @@
     "weeks":[
         {
             "id": "01",
-            "theme": "Super theme",
-            "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfsd qigdoug fodsuqg fou gfp zqeofy egzqiu fqeg zeqfeuo zoequfg qzeyofg qeoyf eqoygf ueqf qeofg qoyfg quzofeg qeugf ezqf gyueqf q",
+            "theme": "Changement d'habitudes",
+            "exp":"La première Datavizualisation portait sur les changements d'habitudes adoptés pendant le confinement.  Les résultats présentent plusieurs façons d'aborder le sujet. Dans les données représentées on peut voir de la nourriture, le sommeil, les loisirs ou l'exercice physique. Ce qui ressort principalement de cette experimentations c'est que ce nouveau mode de vie à adopté de nombreux changements d'habitudes avec lui. ",
             "works":[
                 {
                     "author": "meriem",
                     "link": "https://drive.google.com/file/d/1udPvhdy9ZQ9p9DS9NGTfUNZqfIWebWSA/view",
-                    "exp":"qefqfqfdf fq sdf f sdf sq qdsqdq d dqs  qsd dq qsd qseseqfseqfs q"
+                    "exp":"Première expérimentation révélant les perturbations qu'a subi Meriem dûes au Covid et au Ramadan démontrant un rythme de vie globalement anarchique."
                 },
                 {
                     "author": "elliot",
                     "link": "google.com",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseq lhef gljeqfyfg yzfs q"
+                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
                 },
                 {
                     "author": "raphaël",
@@ -24,18 +24,18 @@
         },
         {
             "id": "02",
-            "theme": "Super theme",
-            "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q",
+            "theme": "La posture ",
+            "exp":"La deuxième expérimentation concernait les postures. Les points clés de cette visualisation étaient portés sur le temps par jour ou les postures étaient adoptées et si elles généraient des douleurs. Les façons de représenter étaient interactives avec la possibilité de voir dans  quelles zones on pouvait voir apparaitre des douleurs et si ces zones changeaient en fonction des postures. ",
             "works":[
                 {
                     "author": "meriem",
                     "link": "google.com",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
+                    "exp":"Pour ce second thème, n’étant pas chez moi, mais chez un proche lors du confinement j’ai du improvisé un endroit qui m’était propre. Dans cet, espace j’ai adopté certaines pauses que j’ai voulu retranscrire sur une une carte des zones douleurs engendrées par les postures dans lesquelles j’étais."
                 },
                 {
                     "author": "elliot",
                     "link": "https://drive.google.com/file/d/1zT1qqC7429uaN-4xC4XEwreFQElZvWEH/view",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
+                    "exp":"Une mise en formes rigides pour capter le mouvement du corps, ou son inactivité. Celles-ci rendent ainsi compte de la dynamique des positions à un instant donné."
                 },
                 {
                     "author": "raphaël",
@@ -46,13 +46,13 @@
         },
         {
             "id": "03",
-            "theme": "Super theme",
-            "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q",
+            "theme": "Les sons ambiants",
+            "exp":"En temps de confinement, nous avons tendance a être plus attentif à notre environnement. On devient plus conscient des détails de ce qui nous entoure, on redécouvre nos lieux de vie. Les sons auxquels autrefois on ne prêtait pas attention ont une nouvelle résonance. C'est pourquoi, nous avons choisit d'approfondir le sujet des sons ambiants. Pour ce thème en particulier, nous avons choisi de donné plus qu'une semaine pour collecté les données et les interprétées car le son n'est pas facile a retranscrire en visuel",
             "works":[
                 {
-                    "author": "meriem",
+                    "author": "meriem ",
                     "link": "google.com",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
+                    "exp":"Les sons ambiants n’ont pas été un sujet bien facile à aborder. J’ai mis beaucoup de temps a trouver un bon moyen de réalisé une visualisation dont j’étais satisfaite. J’ai récolté les sons ambiants d’un lieu de vie qui font d’un espace de vie un foyer. Les sons ambiants d’une maison sont pour moi les reflets d’un foyer. "
                 },
                 {
                     "author": "elliot",
@@ -68,13 +68,13 @@
         },
         {
             "id": "04",
-            "theme": "Super theme",
-            "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q",
+            "theme": "Les interactions humaines",
+            "exp":"La période que nous traversons à bouleverser nos contacts humains, c'est pourquoi nous trouvions que c'était un sujet intéressant à approfondir pour analyser nos changements de comportements et de modes de réflexion. De plus, analysé la façon dont on interagit nous permet de faire une introspection sur nos agissement en société.",
             "works":[
                 {
                     "author": "meriem",
                     "link": "google.com",
-                    "exp":"qefqfqfdf fq sdf f sdf sqeseqfseqfs q"
+                    "exp":"Pour cette visualisation, j’ai voulu retourner au papier car c’est un contact avec quelque chose de matériel. Les couleurs données par l’aquarelle sont douces comme les relations qu’on peut avoir avec des membres de la famille. J’ai voulu représenté les contacts que j’ai eu avec ma famille pendant cette semaine et leurs importances pour moi."
                 },
                 {
                     "author": "elliot",

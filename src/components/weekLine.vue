@@ -4,7 +4,7 @@
 
         <div class="works">
             <a v-for="work in works" target="_blank" :key="work.author" :href="work.link" :class="work.author"></a>
-        </div>  
+        </div> 
 
         <h2>{{theme}}</h2>
     </div>
@@ -54,6 +54,10 @@ export default {
         box-shadow: 0 2px 4px rgba(0,0,0,.04);
     }
 
+    // .spacer{
+    //     flex-grow:1;
+    // }
+
     .works{
         height:18px;
         display:grid;
@@ -78,7 +82,7 @@ export default {
     h2{
         font-weight:300;
         font-size:1.2em;
-        text-transform: capitalize;
+        // text-transform: capitalize;
         color:var(--dark01);
     }
 

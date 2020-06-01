@@ -6,20 +6,22 @@
 
     <section>
       <h2>Introduction</h2>
-      <p>Partager des données semble anodin mais ce n’est pas le cas, les datas en disent long sur nous.
-        De prime abord, elles sembles peu importantes, mais lorsqu’elles sont analysées et interprétées elles permettent de comprendre une personne et sa façon de réfléchir.
+      <p>
+      La période de confinement dû à l'épidémie de Covid-19 a fragmenté et bouleversé nos existences en divers espaces et temporalités : physique et numérique, journée et nuitée, tout commence 
+      à se confondre lorsque notre horizon se résume à 4 murs délimitant un espace de quelques mètres carrés seulement.</br></br>
+      Inspirés par le travail de <a href="http://giorgialupi.com/">Giorgia Lupi</a> et <a href="http://www.stefanieposavec.com/">Stefanie Posavec</a>, nous avons donc initié un rituel hebdomadaire
+      de mise en forme de données récoltées durant la semaine sur une thèmatique définie préalablement par le groupe. Les visuels qui en ont résulté ont permis d'établir un échange entre nos situations
+      géographiquement et socialement différentes et ainsi créer un lien d'empathie à conforter lors des échanges sur les travaux effectués.
 
+       </br></br>En effet, partager ces datas récoltées ont permis de décrypter nous-même la situation dans laquelle nous nous trouvions, mais également de la partager aux autres.
+        Elles ont permis à chacun d'entre nous d'analyser et d'interpréter nos conditions respectives.
         </br>
         </br>
-        Bien que l’Art et la Datavisualisation soient peu comparable, on peut tout de même faire un parallèle entre ces deux domaines. En effet, longtemps les artistes ont essayé de faire comprendre leurs point de vue, leurs manières de voir le monde. Mais si on le formulait autrement cela reviendrait à dire que l’Art est une façon d’interpréter “les données” du monde. L’œuvre serait donc la synthèse de ces données et par conséquent une datavisualisation.
-
+        La datavisualisation du monde, une façon de comprendre le point de vue d’autrui.</br>
+        Le projet des “Dataconfineurs” est né de cette interprétation. Nous avons cherché à comprendre comment les autres apercevaient le monde.
         </br>
         </br>
-        La datavisualisation du monde, une façon de comprendre le point de vue d’autrui.
-        Le projet des “Dataconfineurs” est né de cette interprétation du sujet. Nous avons cherché à comprendre comment les autres apercevaient le monde.
-        </br>
-        </br>
-        Les Dataconfineurs c’est avant tout un pacte, une promesse de partager notre point de vue sur le monde. Toutes les semaines, nous avons sélectionné un thème à partir duquel nous avons récolté des informations que nous avons par la suite interprétées et présentées aux autres.</p>
+        Les Dataconfineurs c’est avant tout un pacte, une promesse de partager notre point de vue sur le monde. Chaque semaine devait voir son lot de données récoltées, filtrées et interprétées sous le signe d'une thèmatique définie.</p>
     </section>
     
     <p class="credits">Travail réalisé dans le cadre d'un projet à <a href="https://www.lecolededesign.com/">L'Ecole de design Nantes Atltantique</a> par <a class="meme" href="http://gharbimeriem.com">Meriem Gharbi</a>, <a class="ellio" href="http://elliotchevalier.com">Elliot Chevalier</a> et <a class="raphael" href="http://raphaelperraud.com">Raphaël Perraud</a>.</p>
