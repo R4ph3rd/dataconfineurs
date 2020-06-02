@@ -83,7 +83,9 @@ export default {
         font-weight:300;
         font-size:1.2em;
         // text-transform: capitalize;
+        width:20%;
         color:var(--dark01);
+        text-align:left;
     }
 
     h3{
