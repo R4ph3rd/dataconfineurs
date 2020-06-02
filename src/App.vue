@@ -13,22 +13,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
-  color: #2a2b33;
-
+  --dark01: #2a2b33;
+  color: var(--dark01);
   
-}
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
 }
 
 *{
@@ -41,6 +28,54 @@
 
 body{
   background:cornsilk;
-  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&display=swap');
+}
+
+h1{
+  font-weight:900;
+  font-size:9vw;
+  text-transform: uppercase;
+  text-align:left;
+  color:var(--dark01)
+}
+
+.meriem{ background-color:darksalmon }
+.elliot{ background-color:black }
+.raphaël{ background-color:rgb(211, 30, 74) }
+
+.info{
+  width:24px;
+  height:24px;
+  background-image:url('./assets/info.svg');
+
+  position:fixed;
+  top:20px;
+  right:20px;
+
+}
+
+@font-face {
+  font-family:'Rubik';
+  font-weight:400;
+  src: url('./assets/fonts/Rubik-Regular.ttf');
+}
+@font-face {
+  font-family:'Rubik';
+  font-weight:700;
+  src: url('./assets/fonts/Rubik-Bold.ttf');
+}
+@font-face {
+  font-family:'Rubik';
+  font-weight:900;
+  src: url('./assets/fonts/Rubik-Black.ttf');
+}
+@font-face {
+  font-family:'Rubik';
+  font-weight:300;
+  src: url('./assets/fonts/Rubik-Light.ttf');
+}
+@font-face {
+  font-family:'Rubik';
+  font-weight:500;
+  src: url('./assets/fonts/Rubik-Medium.ttf');
 }
 </style>
