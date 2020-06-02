@@ -11,6 +11,11 @@ Vue.use(VueRouter)
     component: Home
   },
   {
+    path: '/dataweek/:week',
+    name: 'Dataweek',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Dataweek.vue')
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
